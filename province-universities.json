@@ -1,8 +1,5 @@
 [
-  {
-    "id": 1,
-    "province": "ADANA",
-    "universities":[
+ 
       {
         "name": "ADANA BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
         "phone": "0 (322) 455 00 01",
@@ -20,13 +17,8 @@
         "email": "genel-sekreter@cu.edu.tr",
         "adress": "Çukurova Üniversitesi Rektörlüğü 01330 Balcalı, Sarıçam / ADANA",
         "rector": "MUSTAFA KİBAR"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "province": "ADIYAMAN",
-    "universities":[
+      },
+ 
       {
         "name": "ADIYAMAN ÜNİVERSİTESİ",
         "phone": "0 (416) 223 38 40",
@@ -35,13 +27,7 @@
         "email": "bidb@adiyaman.edu.tr",
         "adress": "Altınşehir Mh. 3005 Sokak No:13 02040 / ADIYAMAN",
         "rector": "MUSTAFA TALHA GÖNÜLLÜ"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "province": "AFYONKARAHİSAR",
-    "universities":[
+      },
       {
         "name": "AFYON KOCATEPE ÜNİVERSİTESİ",
         "phone": "0 (272) 444 03 03",
@@ -59,14 +45,8 @@
         "email": "-",
         "adress": "-",
         "rector": "-"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "province": "AĞRI",
-    "universities":[
-      {
+      },
+  
         "name": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
         "phone": "0 (472) 216 20 08",
         "fax": "0 (472) 215 11 82",
@@ -74,13 +54,8 @@
         "email": "gensek@agri.edu.tr",
         "adress": "Erzurum yolu  4 km 04100 Merkez / AĞRI",
         "rector": "ABDULHALİK KARABULUT"
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "province": "AMASYA",
-    "universities":[
+      },
+
       {
         "name": "AMASYA ÜNİVERSİTESİ",
         "phone": "0 (358) 211 50 05",
@@ -89,13 +64,8 @@
         "email": "webadmin@amasya.edu.tr",
         "adress": "Akbilek Mah. Hakimiyet cad. No:4/3 PK: 05100 Merkez/AMASYA",
         "rector": "METİN ORBAY"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "province": "ANKARA",
-    "universities":[
+      },
+ 
       {
         "name": "ANKA TEKNOLOJİ ÜNİVERSİTESİ",
         "phone": "-",
@@ -285,12 +255,7 @@
         "adress": "Oğuzlar Mahallesi 1377 Sokak No:21 Balgat ANKARA",
         "rector": "RABET GÖZİL"
       }
-    ]
-  },
-  {
-    "id": 7,
-    "province": "ANTALYA",
-    "universities":[
+
       {
         "name": "AKDENİZ ÜNİVERSİTESİ",
         "phone": "0 (242) 227 44 00",
@@ -335,13 +300,8 @@
         "email": "info@antalya.edu.tr",
         "adress": "Farabi Cad. No:2 Döşemealtı / ANTALYA",
         "rector": "İSMAİL YÜKSEK"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "province": "ARTVİN",
-    "universities":[
+      },
+
       {
         "name": "ARTVİN ÇORUH ÜNİVERSİTESİ",
         "phone": "0 (466) 215 10 10",
@@ -351,12 +311,7 @@
         "adress": "Artvin Çoruh Üniversitesi Rektörlüğü Fidanlık Mah.Kapı Nu.110 08000 Seyitler Yerleşkesi-ARTVİN",
         "rector": "FAHRETTİN TİLKİ"
       }
-    ]
-  },
-  {
-    "id": 9,
-    "province": "AYDIN",
-    "universities":[
+
       {
         "name": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
         "phone": "0 (256) 218 20 30",
@@ -365,13 +320,8 @@
         "email": "ozelkalem@adu.edu.tr",
         "adress": "AYTEPE MEVKİ AYDIN",
         "rector": "CAVİT BİRCAN"
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "province": "BALIKESİR",
-    "universities":[
+      },
+
       {
         "name": "BALIKESİR ÜNİVERSİTESİ",
         "phone": "0 (266) 612 14 00",
@@ -389,13 +339,8 @@
         "email": "rektorluk@bandirma.edu.tr",
         "adress": "Yeni Mh. Şehit Astsubay Mustafa Soner Varlık Cd. No:77 Bandırma/BALIKESİR",
         "rector": "SÜLEYMAN ÖZDEMİR"
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "province": "BİLECİK",
-    "universities":[
+      },
+ 
       {
         "name": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
         "phone": "0 (228) 214 11 11",
@@ -404,13 +349,8 @@
         "email": "genelsekreterlik@bilecik.edu.tr",
         "adress": "Bilecik Şeyh Edebali Üniversitesi Rektörlüğü 11210 Merkez Bilecik",
         "rector": "İBRAHİM TAŞ"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "province": "BİNGÖL",
-    "universities":[
+      },
+
       {
         "name": "BİNGÖL ÜNİVERSİTESİ",
         "phone": "0 (426) 216 00 12-15",
@@ -419,13 +359,8 @@
         "email": "ozelkalem@bingol.edu.tr",
         "adress": "Selahaddin-i Eyyübi Mah. Aydınlık Cad. No:1 BİNGÖL",
         "rector": "İBRAHİM ÇAPAK"
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "province": "BİTLİS",
-    "universities":[
+      },
+
       {
         "name": "BİTLİS EREN ÜNİVERSİTESİ",
         "phone": "0 (434) 222 00 00",
@@ -434,13 +369,8 @@
         "email": "info@beu.edu.tr",
         "adress": "Beş Minare Mah. Rahva Yerleşkesi - Bitlis",
         "rector": "ERDAL YARDIM"
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "province": "BOLU",
-    "universities":[
+      },
+
       {
         "name": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
         "phone": "0 (374) 254 10 00",
@@ -449,13 +379,8 @@
         "email": "bilgi@ibu.edu.tr",
         "adress": "Abant İzzet Baysal Üniversitesi Gölköy Kampüsü 14280 BOLU",
         "rector": "MUSTAFA ALİŞARLI"
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "province": "BURDUR",
-    "universities":[
+      },
+ 
       {
         "name": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
         "phone": "0 (248) 213 10 00",
@@ -464,13 +389,8 @@
         "email": "rektorluk@mehmetakif.edu.t r",
         "adress": "İstiklal Yerleşkesi BURDUR",
         "rector": "ADEM KORKMAZ"
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "province": "BURSA",
-    "universities":[
+      },
+  
       {
         "name": "BURSA TEKNİK ÜNİVERSİTESİ",
         "phone": "0 (224) 300 33 04",
@@ -497,13 +417,8 @@
         "email": "info@faruksarac.edu.tr",
         "adress": "Kocanaip Mah. Kaplıca Cad. No:3 16060 Muradiye",
         "rector": "-"
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "province": "ÇANAKKALE",
-    "universities":[
+      },
+   
       {
         "name": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
         "phone": "0 (286) 218 06 07",
@@ -512,13 +427,8 @@
         "email": "ozelkalem@comu.edu.tr",
         "adress": "Çanakkale Onsekiz Mart Üniversitesi, Terzioğlu Kampüsü, Rektörlük Binası , A Blok  Merkez/ÇANAKKALE",
         "rector": "YÜCEL ACER"
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "province": "ÇANKIRI",
-    "universities":[
+      },
+    
       {
         "name": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
         "phone": "0 (376) 218 95 00",
@@ -527,13 +437,8 @@
         "email": "cku@karatekin.edu.tr",
         "adress": "Uluyazı Kampüsü Binası / Çankırı",
         "rector": "HASAN AYRANCI"
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "province": "ÇORUM",
-    "universities":[
+      },
+  
       {
         "name": "HİTİT ÜNİVERSİTESİ",
         "phone": "0 (364) 219 19 19",
@@ -542,13 +447,8 @@
         "email": "rektorluk@hitit.edu.tr",
         "adress": "Hitit Üniversitesi Kuzey Kampüsü Çevre Yolu Bulvarı PK:19030 ÇORUM",
         "rector": "REHA METİN ALKAN"
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "province": "DENİZLİ",
-    "universities":[
+      },
+
       {
         "name": "PAMUKKALE ÜNİVERSİTESİ",
         "phone": "0 (258) 296 20 20",
@@ -557,13 +457,8 @@
         "email": "ozelkalem@pau.edu.tr",
         "adress": "Pamukkale Üniversitesi Rektörlüğü Kınıklı Yerleşkesi 20070 DENİZLİ",
         "rector": "HÜSEYİN BAĞ"
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "province": "DİYARBAKIR",
-    "universities":[
+      },
+ 
       {
         "name": "DİCLE ÜNİVERSİTESİ",
         "phone": "0 (412) 241 10 01",
@@ -572,13 +467,9 @@
         "email": "gensek@dicle.edu.tr",
         "adress": "21280 Kıtılbil Mahallesi Sur / Diyarbakır",
         "rector": "TALİP GÜL"
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "province": "EDİRNE",
-    "universities":[
+      },
+   
+  
       {
         "name": "TRAKYA ÜNİVERSİTESİ",
         "phone": "0 (284) 223 42 10-11-12",
@@ -588,12 +479,7 @@
         "adress": "Trakya Üniversitesi Rektörlüğü 22030 Balkan Yerleşkesi / EDİRNE",
         "rector": "ERHAN TABAKOĞLU"
       }
-    ]
-  },
-  {
-    "id": 23,
-    "province": "ELAZIĞ",
-    "universities":[
+ 
       {
         "name": "FIRAT ÜNİVERSİTESİ",
         "phone": "0 (424) 212 85 10",
@@ -603,12 +489,7 @@
         "adress": "Fırat Üniversitesi Rektörlüğü 23119 ELAZIĞ",
         "rector": "KUTBEDDİN DEMİRDAĞ"
       }
-    ]
-  },
-  {
-    "id": 24,
-    "province": "ERZİNCAN",
-    "universities":[
+ 
       {
         "name": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
         "phone": "0 (444) 226 66 66",
@@ -618,12 +499,7 @@
         "adress": "Fatih Mahallesi Erzincan Üniversitesi Rektörlüğü - Erzincan/Merkez",
         "rector": "İLYAS ÇAPOĞLU"
       }
-    ]
-  },
-  {
-    "id": 25,
-    "province": "ERZURUM",
-    "universities":[
+ 
       {
         "name": "ATATÜRK ÜNİVERSİTESİ",
         "phone": "442 231 10 01",
@@ -641,13 +517,8 @@
         "email": "bilgi@erzurum.edu.tr",
         "adress": "ERZURUM TEKNİK ÜNİVERSİTESİ Ömer Nasuhi Bilmen Mah. Havaalanı Yolu Cad. No:53 YAKUTİYE/ERZURUM",
         "rector": "MUAMMER YAYLALI"
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "province": "ESKİŞEHİR",
-    "universities":[
+      },
+
       {
         "name": "ANADOLU ÜNİVERSİTESİ",
         "phone": "0 (222) 335 05 81",
@@ -674,13 +545,8 @@
         "email": "-",
         "adress": "-",
         "rector": "-"
-      }
-    ]
-  },
-  {
-    "id": 27,
-    "province": "GAZİANTEP",
-    "universities":[
+      },
+  
       {
         "name": "GAZİANTEP BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
         "phone": "-",
@@ -716,13 +582,8 @@
         "email": "info@sanko.edu.tr",
         "adress": "İncilipınar Mah. Gazi Muhtar Paşa Bulv. No:36 27090 Şehitkamil/ GAZİANTEP",
         "rector": "GÜNER DAĞLI"
-      }
-    ]
-  },
-  {
-    "id": 28,
-    "province": "GİRESUN",
-    "universities":[
+      },
+
       {
         "name": "GİRESUN ÜNİVERSİTESİ",
         "phone": "0 (454) 310 10 00",
@@ -731,13 +592,8 @@
         "email": "rektor@giresun.edu.tr",
         "adress": "Giresun Üniversitesi | Giresun",
         "rector": "CEVDET COŞKUN"
-      }
-    ]
-  },
-  {
-    "id": 29,
-    "province": "GÜMÜŞHANE",
-    "universities":[
+      },
+    
       {
         "name": "GÜMÜŞHANE ÜNİVERSİTESİ",
         "phone": "0 (456) 233 10 00",
@@ -746,13 +602,8 @@
         "email": "gumushane@gumushane.edu.tr",
         "adress": "Gümüşhane Üniversitesi Rektörlüğü Bağlarbaşı Mh.",
         "rector": "HALİL İBRAHİM ZEYBEK"
-      }
-    ]
-  },
-  {
-    "id": 30,
-    "province": "HAKKARİ",
-    "universities":[
+      },
+    
       {
         "name": "HAKKARİ ÜNİVERSİTESİ",
         "phone": "0 (438) 212 12 12",
@@ -761,13 +612,8 @@
         "email": "rektorluk@hakkari.edu.tr",
         "adress": "Merzan Mah. Küçük Sanayi Sitesi arkası Merkez/HAKKARİ",
         "rector": "ÖMER PAKİŞ"
-      }
-    ]
-  },
-  {
-    "id": 31,
-    "province": "HATAY",
-    "universities":[
+      },
+
       {
         "name": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
         "phone": "0 (326) 221 33 17 - 18 - 19",
@@ -785,13 +631,8 @@
         "email": "ofis@iste.edu.tr",
         "adress": "İskenderun Teknik Üniversitesi Rektörlüğü Merkez Kampüs 31200 İskenderun/HATAY",
         "rector": "TÜRKAY DERELİ"
-      }
-    ]
-  },
-  {
-    "id": 32,
-    "province": "ISPARTA",
-    "universities":[
+      },
+   
       {
         "name": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
         "phone": "-",
@@ -809,13 +650,8 @@
         "email": "bidb@sdu.edu.tr",
         "adress": "Süleyman Demirel Üniversitesi Batı Yerleşkesi Rektörlük Binası 32260  Çünür / ISPARTA",
         "rector": "İLKER HÜSEYİN ÇARIKÇI"
-      }
-    ]
-  },
-  {
-    "id": 33,
-    "province": "MERSİN",
-    "universities":[
+      },
+  
       {
         "name": "ÇAĞ ÜNİVERSİTESİ",
         "phone": "0 (324) 651 48 00",
@@ -851,13 +687,8 @@
         "email": "rektorluk@toros.edu.tr",
         "adress": "Bahçelievler Kampüsü 1857 Sokak No:12 33140 Yenişehir MERSİN",
         "rector": "HALUK KORKMAZYÜREK"
-      }
-    ]
-  },
-  {
-    "id": 34,
-    "province": "İSTANBUL",
-    "universities":[
+      },
+[
       {
         "name": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ",
         "phone": "0 (216) 500 44 44",
@@ -1407,12 +1238,7 @@
         "adress": "Davutpaşa Mah. Davutpaşa Cad. 34220 Esenler - İstanbul",
         "rector": "BAHRİ ŞAHİN"
       }
-    ]
-  },
-  {
-    "id": 35,
-    "province": "İZMİR",
-    "universities":[
+  
       {
         "name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
         "phone": "0 (232) 412 12 12",
@@ -1493,13 +1319,8 @@
         "email": "burcu.sagir@yasar.edu.tr",
         "adress": "Üniversite Cad., No.:35-37, Ağaçlı Yol, Bornova-İZMİR",
         "rector": "MEHMET CEMALİ DİNÇER"
-      }
-    ]
-  },
-  {
-    "id": 36,
-    "province": "KARS",
-    "universities":[
+      },
+  
       {
         "name": "KAFKAS ÜNİVERSİTESİ",
         "phone": "0 (474) 225 11 58",
@@ -1508,13 +1329,8 @@
         "email": "rektor@kafkas.edu.tr",
         "adress": "Kafkas Üniversitesi Şehitler Mh. Turan Çelik Cd. Kombina Yolu Üzeri Merkez/KARS",
         "rector": "SAMİ ÖZCAN"
-      }
-    ]
-  },
-  {
-    "id": 37,
-    "province": "KASTAMONU",
-    "universities":[
+      },
+  
       {
         "name": "KASTAMONU ÜNİVERSİTESİ",
         "phone": "0 (366) 280 10 36",
@@ -1523,13 +1339,8 @@
         "email": "rektor@kastamonu.edu.tr",
         "adress": "Cumhuriyet Meydanı Rektörlük Binası KASTAMONU",
         "rector": "SEYİT AYDIN"
-      }
-    ]
-  },
-  {
-    "id": 38,
-    "province": "KAYSERİ",
-    "universities":[
+      },
+  
       {
         "name": "ABDULLAH GÜL ÜNİVERSİTESİ",
         "phone": "0 (352) 224 88 00",
@@ -1565,13 +1376,8 @@
         "email": "info@nny.edu.tr",
         "adress": "Erkilet Dere Mah. Kuzey Çevreyolu Nuh Naci Yazgan Üniversitesi Kocasinan/Kayseri",
         "rector": "KERİM GÜNEY"
-      }
-    ]
-  },
-  {
-    "id": 39,
-    "province": "KIRKLARELİ",
-    "universities":[
+      },
+ 
       {
         "name": "KIRKLARELİ ÜNİVERSİTESİ",
         "phone": "0 (288) 212 96 88-89",
@@ -1580,13 +1386,8 @@
         "email": "ozelkalem@klu.edu.tr",
         "adress": "Cumhuriyet Mahallesi Kofcaz Yolu Kayalı Yerleşkesi Merkez-Kırklareli",
         "rector": "BÜLENT ŞENGÖRÜR"
-      }
-    ]
-  },
-  {
-    "id": 40,
-    "province": "KIRŞEHİR",
-    "universities":[
+      },
+  
       {
         "name": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
         "phone": "0 (386) 280 40 45",
@@ -1595,13 +1396,8 @@
         "email": "ozelkalem@ahievran.edu.tr",
         "adress": "Bağbaşı Mah. Sahir kurutluoğlu cad. NO: 100 Merkez /KIRŞEHİR",
         "rector": "VATAN KARAKAYA"
-      }
-    ]
-  },
-  {
-    "id": 41,
-    "province": "KOCAELİ",
-    "universities":[
+      },
+   
       {
         "name": "GEBZE TEKNİK ÜNİVERSİTESİ",
         "phone": "0 (262) 605 15 09",
@@ -1619,13 +1415,8 @@
         "email": "rekiletisim@kocaeli.edu.tr",
         "adress": "Umuttepe Merkez Yerleşkesi 41380 İzmit/KOCAELİ",
         "rector": "SADETTİN HÜLAGÜ"
-      }
-    ]
-  },
-  {
-    "id": 42,
-    "province": "KONYA",
-    "universities":[
+      },
+    
       {
         "name": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
         "phone": "0 (332) 223 54 88",
@@ -1670,13 +1461,8 @@
         "email": "ozelkalem@selcuk.edu.tr",
         "adress": "Alaaddin Keykubat Kampüsü, Akademi Mahallesi, Yeni İstanbul Caddesi No:369/1 42130",
         "rector": "MUSTAFA ŞAHİN"
-      }
-    ]
-  },
-  {
-    "id": 43,
-    "province": "KÜTAHYA",
-    "universities":[
+      },
+  
       {
         "name": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
         "phone": "0 (274) 265 20 31",
@@ -1694,13 +1480,8 @@
         "email": "-",
         "adress": "-",
         "rector": "-"
-      }
-    ]
-  },
-  {
-    "id": 44,
-    "province": "MALATYA",
-    "universities":[
+      },
+  
       {
         "name": "İNÖNÜ ÜNİVERSİTESİ",
         "phone": "0 (422) 377 30 00",
@@ -1718,13 +1499,8 @@
         "email": "-",
         "adress": "-",
         "rector": "-"
-      }
-    ]
-  },
-  {
-    "id": 45,
-    "province": "MANİSA",
-    "universities":[
+      },
+    
       {
         "name": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
         "phone": "0 (236) 201 10 14",
@@ -1733,13 +1509,8 @@
         "email": "ozelkalem@cbu.edu.tr",
         "adress": "Şehit Prof. Dr. İlhan Varank Kampüsü 45140 - Yunusemre - MANİSA",
         "rector": "AHMET KEMAL ÇELEBİ"
-      }
-    ]
-  },
-  {
-    "id": 46,
-    "province": "KAHRAMANMARAŞ",
-    "universities":[
+      },
+   
       {
         "name": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
         "phone": "-",
@@ -1757,13 +1528,8 @@
         "email": "genelsekreterlik@ksu.edu.tr",
         "adress": "Kahramanmaraş Sütçü İmam Üniversitesi Rektörlüğü,  Avşar Mah. Batı Çevreyolu Blv.  No: 251/A 46040 - Onikişubat/Kahramanmaraş",
         "rector": "NİYAZİ CAN"
-      }
-    ]
-  },
-  {
-    "id": 47,
-    "province": "MARDİN",
-    "universities":[
+      },
+  
       {
         "name": "MARDİN ARTUKLU ÜNİVERSİTESİ",
         "phone": "0 (482) 213 40 02",
@@ -1772,13 +1538,8 @@
         "email": "pdb@artuklu.edu.tr",
         "adress": "Mardin Artuklu Üniversitesi Yenişehir Yerleşkesi, Diyarbakır Yolu Yenişehir Mardin",
         "rector": "AHMET AĞIRAKÇA"
-      }
-    ]
-  },
-  {
-    "id": 48,
-    "province": "MUĞLA",
-    "universities":[
+      },
+   
       {
         "name": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
         "phone": "0 (252) 211 10 00",
@@ -1787,13 +1548,8 @@
         "email": "okalem@mu.edu.tr",
         "adress": "Muğla Sıtkı Koçman Üniversitesi Rektörlüğü 48000 Menteşe/MUĞLA",
         "rector": "-"
-      }
-    ]
-  },
-  {
-    "id": 49,
-    "province": "MUŞ",
-    "universities":[
+      },
+    
       {
         "name": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
         "phone": "0 (436) 249 49 49",
@@ -1802,13 +1558,8 @@
         "email": "bilgi@alparslan.edu.tr",
         "adress": "Muş Alparslan Üniversitesi Kampusu, Rektörlük, Diyarbakır Yolu 7. km 49250- MUŞ",
         "rector": "FETHİ POLAT"
-      }
-    ]
-  },
-  {
-    "id": 50,
-    "province": "NEVŞEHİR",
-    "universities":[
+      },
+   
       {
         "name": "KAPADOKYA ÜNİVERSİTESİ",
         "phone": "0 (384) 353 50 09",
@@ -1826,13 +1577,8 @@
         "email": "ozelkalem@nevsehir.edu.tr",
         "adress": "Nevşehir Hacı Bektaş Veli Üniversitesi Rektörlüğü 2000 Evler Mahallesi Zübeyde Hanım Cad. 50300",
         "rector": "MAZHAR BAĞLI"
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "province": "NİĞDE",
-    "universities":[
+      },
+ 
       {
         "name": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
         "phone": "0 (388) 225 26 02-05-06",
@@ -1841,13 +1587,8 @@
         "email": "ozelkalem@ohu.edu.tr",
         "adress": "Niğde Ömer Halisdemir Üniversitesi Rektörlüğü Rektörlük Binası 2. Kat Merkez Yerleşke Bor Yolu Üzeri 51240 Merkez/NİĞDE",
         "rector": "MUHSİN KAR"
-      }
-    ]
-  },
-  {
-    "id": 52,
-    "province": "ORDU",
-    "universities":[
+      },
+    
       {
         "name": "ORDU ÜNİVERSİTESİ",
         "phone": "0 (452) 226 52 00",
@@ -1856,13 +1597,8 @@
         "email": "rektorozelkalem@odu.edu.tr",
         "adress": "Cumhuriyet Yerleşkesi 52200 Merkez/ORDU",
         "rector": "TARIK YARILGAÇ"
-      }
-    ]
-  },
-  {
-    "id": 53,
-    "province": "RİZE",
-    "universities":[
+      },
+    
       {
         "name": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ",
         "phone": "0 (464) 223 81 00",
@@ -1880,13 +1616,8 @@
         "email": "-",
         "adress": "-",
         "rector": "-"
-      }
-    ]
-  },
-  {
-    "id": 54,
-    "province": "SAKARYA",
-    "universities":[
+      },
+   
       {
         "name": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
         "phone": "-",
@@ -1904,13 +1635,8 @@
         "email": "ilko@sakarya.edu.tr",
         "adress": "Sakarya Üniversitesi Esentepe Kampüsü 54187 Serdivan / SAKARYA",
         "rector": "-"
-      }
-    ]
-  },
-  {
-    "id": 55,
-    "province": "SAMSUN",
-    "universities":[
+      },
+   
       {
         "name": "ONDOKUZ MAYIS ÜNİVERSİTESİ",
         "phone": "0 (362) 457 58 70",
@@ -1919,13 +1645,8 @@
         "email": "iletisim@omu.edu.tr",
         "adress": "Ondokuz Mayıs Üniversitesi Rektörlük Binası Kurupelit Kampüsü, 55139 Atakum / SAMSUN",
         "rector": "SAİT BİLGİÇ"
-      }
-    ]
-  },
-  {
-    "id": 56,
-    "province": "SİİRT",
-    "universities":[
+      },
+  
       {
         "name": "SİİRT ÜNİVERSİTESİ",
         "phone": "0 (484) 212 11 11",
@@ -1934,13 +1655,8 @@
         "email": "siu@siirt.edu.tr",
         "adress": "Kezer Kampüsü SİİRT",
         "rector": "MURAT ERMAN"
-      }
-    ]
-  },
-  {
-    "id": 57,
-    "province": "SİNOP",
-    "universities":[
+      },
+  
       {
         "name": "SİNOP ÜNİVERSİTESİ",
         "phone": "0 (368) 271 57 57",
@@ -1949,13 +1665,9 @@
         "email": "sinop@sinop.edu.tr",
         "adress": "Korucuk Köyü Trafo Mahallesi No:36  57000 ? SİNOP",
         "rector": "NİHAT DALGIN"
-      }
-    ]
-  },
-  {
-    "id": 58,
-    "province": "SİVAS",
-    "universities":[
+      },
+    
+  
       {
         "name": "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
         "phone": "-",
@@ -1973,13 +1685,8 @@
         "email": "ryaziisl@cumhuriyet.edu.tr",
         "adress": "Cumhuriyet Üniversitesi, Yenişehşr Mah. Kayseri Caddesi 58140 Kampüs SİVAS",
         "rector": "ALİM YILDIZ"
-      }
-    ]
-  },
-  {
-    "id": 59,
-    "province": "TEKİRDAĞ",
-    "universities":[
+      },
+  
       {
         "name": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
         "phone": "0 (282) 250 10 02",
@@ -1988,13 +1695,8 @@
         "email": "ozelkalem@nku.edu.tr",
         "adress": "Namık Kemal Mah. Kampüs Cad. No:1 Merkez-TEKİRDAĞ",
         "rector": "OSMAN ŞİMŞEK"
-      }
-    ]
-  },
-  {
-    "id": 60,
-    "province": "TOKAT",
-    "universities":[
+      },
+ 
       {
         "name": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
         "phone": "0 (356) 252 16 16",
@@ -2003,13 +1705,8 @@
         "email": "gensek@gop.edu.tr",
         "adress": "Gaziosmanpaşa Üniversitesi Rektörlüğü Taşlıçiftlik Yerleşkesi TOKAT",
         "rector": "MUSTAFA ŞAHİN"
-      }
-    ]
-  },
-  {
-    "id": 61,
-    "province": "TRABZON",
-    "universities":[
+      },
+
       {
         "name": "AVRASYA ÜNİVERSİTESİ",
         "phone": "462 334 64 44-45-47",
@@ -2036,13 +1733,8 @@
         "email": "-",
         "adress": "-",
         "rector": "-"
-      }
-    ]
-  },
-  {
-    "id": 62,
-    "province": "TUNCELİ",
-    "universities":[
+      },
+    
       {
         "name": "MUNZUR ÜNİVERSİTESİ",
         "phone": "0 (428) 213 17 94",
@@ -2051,13 +1743,8 @@
         "email": "universite@munzur.edu.tr",
         "adress": "Aktuluk Mahallesi Üniversite Yerleşkesi Merkez/TUNCELİ",
         "rector": "UBEYDE İPEK"
-      }
-    ]
-  },
-  {
-    "id": 63,
-    "province": "ŞANLIURFA",
-    "universities":[
+      },
+ 
       {
         "name": "HARRAN ÜNİVERSİTESİ",
         "phone": "0 (414) 318 30 00",
@@ -2066,13 +1753,8 @@
         "email": "ozelkalem@harran.edu.tr",
         "adress": "Hamidiye Mah. Necmettin Cevheri Caddesi, Yenişehir Şanlıurfa/Türkiye",
         "rector": "RAMAZAN TAŞALTIN"
-      }
-    ]
-  },
-  {
-    "id": 64,
-    "province": "UŞAK",
-    "universities":[
+      },
+   
       {
         "name": "UŞAK ÜNİVERSİTESİ",
         "phone": "0 (276) 221 21 21",
@@ -2081,13 +1763,8 @@
         "email": "ozelkalem@usak.edu.tr",
         "adress": "Uşak Üniversitesi Rektörlüğü 1 Eylül Kampüsü  64200 - UŞAK",
         "rector": "EKREM SAVAŞ"
-      }
-    ]
-  },
-  {
-    "id": 65,
-    "province": "VAN",
-    "universities":[
+      },
+    
       {
         "name": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
         "phone": "444 50 65",
@@ -2096,13 +1773,8 @@
         "email": "bilgi@yyu.edu.tr",
         "adress": "Van Yüzüncü Yıl Üniversitesi Rektörlüğü, 65080, Kampüs / VAN",
         "rector": "PEYAMİ BATTAL"
-      }
-    ]
-  },
-  {
-    "id": 66,
-    "province": "YOZGAT",
-    "universities":[
+      },
+ 
       {
         "name": "YOZGAT BOZOK ÜNİVERSİTESİ",
         "phone": "0 (354) 212 37 28",
@@ -2111,13 +1783,8 @@
         "email": "ozel.kalem@bozok.edu.tr",
         "adress": "Medrese Mahallesi Adnan Menderes Bulvarı No:118 66200 Yozgat",
         "rector": "SALİH KARACABEY"
-      }
-    ]
-  },
-  {
-    "id": 67,
-    "province": "ZONGULDAK",
-    "universities":[
+      },
+   
       {
         "name": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
         "phone": "0 (372) 291 12 03",
@@ -2126,13 +1793,8 @@
         "email": "rektor@beun.edu.tr",
         "adress": "Bülent Ecevit Üniversitesi Rektörlüğü İncivez-ZONGULDAK",
         "rector": "MUSTAFA ÇUFALI"
-      }
-    ]
-  },
-  {
-    "id": 68,
-    "province": "AKSARAY",
-    "universities":[
+      },
+    
       {
         "name": "AKSARAY ÜNİVERSİTESİ",
         "phone": "0 (382) 288 20 02-03",
@@ -2141,13 +1803,8 @@
         "email": "ozelkalem@aksaray.edu.tr",
         "adress": "Adana yolu 7.Km. E-90 karayolu üzeri Merkez 68100/AKSARAY",
         "rector": "YUSUF ŞAHİN"
-      }
-    ]
-  },
-  {
-    "id": 69,
-    "province": "BAYBURT",
-    "universities":[
+      },
+  
       {
         "name": "BAYBURT ÜNİVERSİTESİ",
         "phone": "0 (458) 211 11 53",
@@ -2156,13 +1813,8 @@
         "email": "rektor@bayburt.edu.tr",
         "adress": "Dede Korkut Kampüsü 69000 / BAYBURT",
         "rector": "SELÇUK COŞKUN"
-      }
-    ]
-  },
-  {
-    "id": 70,
-    "province": "KARAMAN",
-    "universities":[
+      },
+  
       {
         "name": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ",
         "phone": "0 (338) 226 20 00",
@@ -2171,13 +1823,8 @@
         "email": "iletisim@kmu.edu.tr",
         "adress": "Karamanoğlu Mehmetbey Üniversitesi, Yunus Emre Yerleşkesi, 70100 KARAMAN/ TÜRKİYE",
         "rector": "MEHMET AKGÜL"
-      }
-    ]
-  },
-  {
-    "id": 71,
-    "province": "KIRIKKALE",
-    "universities":[
+      },
+    
 
       {
         "name": "KIRIKKALE ÜNİVERSİTESİ",
@@ -2187,13 +1834,8 @@
         "email": "ozelkalem@kku.edu.tr",
         "adress": "Kırıkkale Üniversitesi Ankara Yolu 7. Km 71450 Yahşihan/Kırıkkale",
         "rector": "-"
-      }
-    ]
-  },
-  {
-    "id": 72,
-    "province": "BATMAN",
-    "universities":[
+      },
+   
       {
         "name": "BATMAN ÜNİVERSİTESİ",
         "phone": "0 (488) 217 38 00",
@@ -2202,13 +1844,8 @@
         "email": "batman@batman.edu.tr",
         "adress": "Batı Raman 72100 Batman, Türkiye",
         "rector": "AYDIN DURMUŞ"
-      }
-    ]
-  },
-  {
-    "id": 73,
-    "province": "ŞIRNAK",
-    "universities":[
+      },
+   
       {
         "name": "ŞIRNAK ÜNİVERSİTESİ",
         "phone": "0 (486) 216 82 41",
@@ -2217,13 +1854,8 @@
         "email": "posta@sirnak.edu.tr",
         "adress": "Yeni Mahalle Cizre Caddesi Mehmet Emin Acar Kampüsü 73000 Şırnak - Türkiye",
         "rector": "MEHMET EMİN ERKAN"
-      }
-    ]
-  },
-  {
-    "id": 74,
-    "province": "BARTIN",
-    "universities":[
+      },
+    
       {
         "name": "BARTIN ÜNİVERSİTESİ",
         "phone": "0 (378) 223 55 00",
@@ -2232,13 +1864,8 @@
         "email": "rektorluk@bartin.edu.tr",
         "adress": "Bartın Üniversitesi Rektörlüğü Merkez/BARTIN",
         "rector": "ORHAN UZUN"
-      }
-    ]
-  },
-  {
-    "id": 75,
-    "province": "ARDAHAN",
-    "universities":[
+      },
+  
       {
         "name": "ARDAHAN ÜNİVERSİTESİ",
         "phone": "0 (478) 211 75 75",
@@ -2247,13 +1874,8 @@
         "email": "rektorluk@ardahan.edu.tr",
         "adress": "Ardahan Üniversitesi Yenisey Kampüsü, Rektörlük Hizmet Binası, Çamlıçatak Mevkii, 75000, Merkez/Ardahan",
         "rector": "MEHMET BİBER"
-      }
-    ]
-  },
-  {
-    "id": 76,
-    "province": "IĞDIR",
-    "universities":[
+      },
+   
       {
         "name": "IĞDIR ÜNİVERSİTESİ",
         "phone": "0 (476) 223 00 10-11-12-13",
@@ -2262,13 +1884,8 @@
         "email": "info@igdir.edu.tr",
         "adress": "Suveren Kampüsü Suveren Köyü IĞDIR",
         "rector": "MEHMET HAKKI ALMA"
-      }
-    ]
-  },
-  {
-    "id": 77,
-    "province": "YALOVA",
-    "universities":[
+      },
+ 
       {
         "name": "YALOVA ÜNİVERSİTESİ",
         "phone": "0 (226) 815 50 01",
@@ -2277,13 +1894,8 @@
         "email": "bilgi@yalova.edu.tr",
         "adress": "Çınarcık Yolu 3.km Merkez Kampüsü Yalova",
         "rector": "SUAT CEBECİ"
-      }
-    ]
-  },
-  {
-    "id": 78,
-    "province": "KARABÜK",
-    "universities":[
+      },
+ 
       {
         "name": "KARABÜK ÜNİVERSİTESİ",
         "phone": "0 (370) 433 82 00",
@@ -2292,13 +1904,8 @@
         "email": "iletisim@karabuk.edu.tr",
         "adress": "Karabük Üniversitesi Demir Çelik Kampüsü Balıklar Kaya Mevkii",
         "rector": "REFİK POLAT"
-      }
-    ]
-  },
-  {
-    "id": 79,
-    "province": "KİLİS",
-    "universities":[
+      },
+   
       {
         "name": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
         "phone": "0 (348) 814 26 66 / 1001- 1002",
@@ -2307,13 +1914,8 @@
         "email": "ozelkalem@kilis.edu.tr",
         "adress": "Mehmet Sanlı Mah. Doğan Güreş Paşa Bulvarı No.134 Merlez/KİLİS",
         "rector": "MUSTAFA DOĞAN KARACOŞKUN"
-      }
-    ]
-  },
-  {
-    "id": 80,
-    "province": "OSMANİYE",
-    "universities":[
+      },
+   
       {
         "name": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
         "phone": "0 (328) 825 18 18",
@@ -2322,13 +1924,8 @@
         "email": "osmaniye@osmaniye.edu.tr",
         "adress": "Karacaoğlan Yerleşkesi 80000 Merkez/OSMANİYE",
         "rector": "MURAT TÜRK"
-      }
-    ]
-  },
-  {
-    "id": 81,
-    "province": "DÜZCE",
-    "universities":[
+      },
+    
       {
         "name": "DÜZCE ÜNİVERSİTESİ",
         "phone": "0 (380) 542 11 01",
