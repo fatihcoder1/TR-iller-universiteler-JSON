@@ -1,5 +1,5 @@
-
-      {
+[
+    {
         "name": "ADANA BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
         "phone": "0 (322) 455 00 01",
         "fax": "0 (322) 455 00 02",
@@ -7,8 +7,8 @@
         "email": "rektorluk@adanabtu.edu.tr",
         "adress": "Gültepe Mahallesi, Çatalan Caddesi No:201/5 01250 Sarıçam/ADANA",
         "rector": "MEHMET TÜMAY"
-      },
-      {
+    },
+    {
         "name": "ÇUKUROVA ÜNİVERSİTESİ",
         "phone": "0 (322) 338 60 84",
         "fax": "0 (322) 338 69 45",
@@ -16,9 +16,8 @@
         "email": "genel-sekreter@cu.edu.tr",
         "adress": "Çukurova Üniversitesi Rektörlüğü 01330 Balcalı, Sarıçam / ADANA",
         "rector": "MUSTAFA KİBAR"
-      },
- 
-      {
+    },
+    {
         "name": "ADIYAMAN ÜNİVERSİTESİ",
         "phone": "0 (416) 223 38 40",
         "fax": "0 (416) 223 38 43",
@@ -26,4 +25,5 @@
         "email": "bidb@adiyaman.edu.tr",
         "adress": "Altınşehir Mh. 3005 Sokak No:13 02040 / ADIYAMAN",
         "rector": "MUSTAFA TALHA GÖNÜLLÜ"
-      },
+    }
+]
